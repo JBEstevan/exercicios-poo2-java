@@ -18,4 +18,28 @@ public class Endereco {
 		this.unidadeFederativa = unidadeFederativa;
 	}
 
+	public String getLogradouro() {
+		return logradouro;
+	}
+
+	public int getNumeroResidencia() {
+		return numeroResidencia;
+	}
+
+	public String getBairro() {
+		return bairro;
+	}
+
+	public String getCep() {
+		return cep;
+	}
+
+	public String getCidade() {
+		return cidade;
+	}
+
+	public String getUnidadeFederativa() {
+		return unidadeFederativa;
+	}
+
 }
